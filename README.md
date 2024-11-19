@@ -20,7 +20,7 @@ This application allows users to check the trustworthiness of health-related inf
 Clone this repository to your local machine and navigate into the project directory:
 
 1. git clone https://github.com/HeReFanMi/Frontend.git
-2 .cd /project
+2. cd /project
 
 
 ### **2. Build and Run the Docker Container**
