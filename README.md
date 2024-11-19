@@ -33,6 +33,11 @@ Clone this repository to your local machine and navigate into the project direct
 Once the container is running, access the web application:
 Local Access in the browser: http://127.0.0.1:3000
 
+### **4. Docker hub image**
+
+You can find the image of this backend in the docker hub following the link of the repository below :
+
+  https://hub.docker.com/repository/docker/abdelaliichou/frontend
 
 ## Usage
 1. Enter health-related information in the input field.
