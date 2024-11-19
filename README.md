@@ -19,20 +19,17 @@ This application allows users to check the trustworthiness of health-related inf
 
 Clone this repository to your local machine and navigate into the project directory:
 
-```bash
-git clone https://github.com/abdelaliichou/Ai-text-validator.git
-cd ai-text-validator
+1. git clone https://github.com/HeReFanMi/Frontend.git
+2 .cd /project
 
 
 ### **2. Build and Run the Docker Container**
 
-```bash
-docker build -t frontend .
-docker run -p 3000:3000 frontend
+1. docker build -t frontend .
+2. docker run -p 3000:3000 frontend
 
 ### **3. Access the Application**
 
-```bash
 Once the container is running, access the web application:
 Local Access in the browser: http://127.0.0.1:3000
 
@@ -42,4 +39,4 @@ Local Access in the browser: http://127.0.0.1:3000
 2. Click the "Check reliability" button to trigger the analysis.
 3. Observe the displayed response and buttons indicating the trustworthiness of the information.
 
-Feel free to check the CSS file and structure of components for better understading.
+Feel free to check the other files and the structure of components for better understading.
