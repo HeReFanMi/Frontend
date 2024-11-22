@@ -52,6 +52,7 @@ function App() {
     { id: 2, label: 'GEMINI', imageUrl: lockIMG },
     { id: 3, label: 'GPT4', imageUrl: null },
     { id: 4, label: 'GPT3.5', imageUrl: null },
+    { id: 4, label: 'HeReFaNmi LLM', imageUrl: null },
     { id: 5, label: 'MISTRAL', imageUrl: lockIMG }
   ];
 
